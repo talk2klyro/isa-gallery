@@ -1,56 +1,272 @@
 [
   {
     "id": 1,
-    "url": "https://i.postimg.cc/y8LDSXdT/IMG-20251021-WA0043.jpg",
-    "title": "Aunty Hauwa Family",
-    "uploader": "klyro",
-    "caption": "Family warmth, smiles all around.",
-    "date": "2025-10-13",
+    "url": "https://i.postimg.cc/LX5wjNjt/IMG-20251025-WA0060.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "In uniform and in purpose — serving with pride.",
+    "date": "2025-10-25",
     "likes": 0
   },
   {
     "id": 2,
-    "url": "https://i.postimg.cc/0NrbGMMY/IMG-20251021-WA0044.jpg",
-    "title": "Aunty Hauwa Family",
-    "uploader": "klyro",
-    "caption": "Together is our favorite place.",
-    "date": "2025-10-13",
+    "url": "https://i.postimg.cc/hjv6VpV8/IMG-20251025-WA0061.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Young, bold, and born for duty.",
+    "date": "2025-10-25",
     "likes": 0
   },
   {
     "id": 3,
-    "url": "https://i.postimg.cc/XYsrycJH/IMG-20251021-WA0044.jpg",
-    "title": "Aunty Hauwa Family",
-    "uploader": "klyro",
-    "caption": "Laughter, love, and legacy.",
-    "date": "2025-10-13",
+    "url": "https://i.postimg.cc/xC8hLtLP/IMG-20251025-WA0062.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Every salute carries a promise.",
+    "date": "2025-10-25",
     "likes": 0
   },
   {
     "id": 4,
-    "url": "https://i.postimg.cc/t4BsVtTk/IMG-20251021-WA0065.jpg",
-    "title": "Aunty Hauwa Family",
-    "uploader": "klyro",
-    "caption": "Moments that matter most.",
-    "date": "2025-10-13",
+    "url": "https://i.postimg.cc/bv34GKS3/IMG-20251025-WA0063.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "The calm before courage speaks.",
+    "date": "2025-10-25",
     "likes": 0
   },
   {
     "id": 5,
-    "url": "https://i.postimg.cc/y8LDSXdn/IMG-20251021-WA0066.jpg",
-    "title": "Aunty Hauwa Family",
-    "uploader": "klyro",
-    "caption": "Rooted in love, growing in joy.",
-    "date": "2025-10-13",
+    "url": "https://i.postimg.cc/g0N1wfLq/IMG-20251025-WA0064.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Courage is a quiet voice saying, ‘I’ll try again tomorrow.’",
+    "date": "2025-10-25",
     "likes": 0
   },
   {
     "id": 6,
-    "url": "https://i.postimg.cc/g2gx6qJy/IMG-20251021-WA0067.jpg",
-    "title": "Aunty Hauwa Family",
-    "uploader": "klyro",
-    "caption": "Family first, always and forever.",
-    "date": "2025-10-13",
+    "url": "https://i.postimg.cc/nL0Ns69T/IMG-20251025-WA0065.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Family strength fuels battlefield bravery.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 7,
+    "url": "https://i.postimg.cc/ZqVX91vw/IMG-20251025-WA0066.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Heart of a warrior, soul of a son.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 8,
+    "url": "https://i.postimg.cc/bv34GKSG/IMG-20251025-WA0067.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Serving home, honoring roots.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 9,
+    "url": "https://i.postimg.cc/3wnzyP0R/IMG-20251025-WA0068.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "One flag, one faith, one focus.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 10,
+    "url": "https://i.postimg.cc/LsNGqrg3/IMG-20251025-WA0069.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Behind every soldier is a story worth telling.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 11,
+    "url": "https://i.postimg.cc/DzBRWt4S/IMG-20251025-WA0070.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Strength doesn’t shout, it stands firm.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 12,
+    "url": "https://i.postimg.cc/yNv2Jw3h/IMG-20251025-WA0071.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Every mission begins with faith and ends with hope.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 13,
+    "url": "https://i.postimg.cc/43BjKrHh/IMG-20251025-WA0072.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Honor in the field, humility at home.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 14,
+    "url": "https://i.postimg.cc/CKFWxF5g/IMG-20251025-WA0073.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Discipline forged in duty, compassion shaped by family.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 15,
+    "url": "https://i.postimg.cc/fbB136SC/IMG-20251025-WA0074.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Every uniform tells a tale of sacrifice.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 16,
+    "url": "https://i.postimg.cc/yNVw8VxS/IMG-20251025-WA0075.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "The shield of courage, the heart of love.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 17,
+    "url": "https://i.postimg.cc/W4XxDQqp/IMG-20251025-WA0076.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Some heroes wear camouflage, not capes.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 18,
+    "url": "https://i.postimg.cc/SKDHXwYK/IMG-20251025-WA0077.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "A soldier’s smile hides a thousand untold stories.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 19,
+    "url": "https://i.postimg.cc/Dz2tw207/IMG-20251025-WA0078.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Between duty and dreams lies devotion.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 20,
+    "url": "https://i.postimg.cc/CKFWxF5p/IMG-20251025-WA0079.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Loyalty is the heartbeat of every soldier.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 21,
+    "url": "https://i.postimg.cc/pd2gL2rR/IMG-20251025-WA0080.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "From boyhood dreams to battlefield reality.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 22,
+    "url": "https://i.postimg.cc/rp8vw8mB/IMG-20251025-WA0081.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Strength isn’t in muscle — it’s in mission.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 23,
+    "url": "https://i.postimg.cc/9fWvQWMn/IMG-20251025-WA0082.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Peace is the victory every soldier prays for.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 24,
+    "url": "https://i.postimg.cc/3wKPxKRq/IMG-20251025-WA0083.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "His courage, her prayers — a family united.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 25,
+    "url": "https://i.postimg.cc/1z9L39tY/IMG-20251025-WA0084.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Uniformed for service, driven by love.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 26,
+    "url": "https://i.postimg.cc/GmPWRBc5/IMG-20251025-WA0085.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Duty, discipline, and devotion — the trinity of service.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 27,
+    "url": "https://i.postimg.cc/Vk9xwSYT/IMG-20251025-WA0086.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Even warriors need moments of peace.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 28,
+    "url": "https://i.postimg.cc/tTJwF2FB/IMG-20251025-WA0087.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Where duty calls, honor answers.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 29,
+    "url": "https://i.postimg.cc/vZ7Jy1Yd/IMG-20251025-WA0088.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "Every scar tells a story of resilience.",
+    "date": "2025-10-25",
+    "likes": 0
+  },
+  {
+    "id": 30,
+    "url": "https://i.postimg.cc/YCN574pD/IMG-20251025-WA0089.jpg",
+    "title": "Nigerian Soldier, 22",
+    "uploader": "storvia",
+    "caption": "The heart behind the uniform — a son, a friend, a hero.",
+    "date": "2025-10-25",
     "likes": 0
   }
-]
+    ]
